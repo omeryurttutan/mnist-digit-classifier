@@ -1,4 +1,3 @@
-# train_and_save_model.py
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Flatten
